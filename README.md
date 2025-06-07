@@ -1,4 +1,4 @@
-![classy-banner](public/banner.svg)
+![classy-banner](banner.svg)
 
 <div align="center">
   <h3 align="center">Classy</h3>
