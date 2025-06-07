@@ -15,7 +15,7 @@
   <a href="https://github.com/classy-team/classy/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-AGPL--3.0-purple"></a>
 </div>
 
-> ### Coming soon: Full open-source version to be released. Follow along for updates with
+> ### Coming soon: Full open-source release. Follow along by adding a star on GitHub and creating an account.
 
 ## Features 💫
 
