@@ -15,6 +15,8 @@
   <a href="https://github.com/classy-team/classy/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/license-AGPL--3.0-purple"></a>
 </div>
 
+> ### Coming soon: Full open-source version to be released. Follow along for updates with
+
 ## Features 💫
 
 - 🧠 **Flexible LLM Support**: Works with OpenAI, Anthropic, Gemini, and more
@@ -49,9 +51,10 @@ npm install
 
 3. Set up your environment variables
 
-Create a `.env` file based on the example below:
+Create a `.env.local` file based on the example below:
 
-```
+```bash
+# .env.local
 DATABASE_URL="postgresql://username:password@localhost:5432/classy"
 NEXTAUTH_URL=http://localhost:3000
 NEXTAUTH_SECRET=your-secret-key
@@ -86,7 +89,7 @@ npm run dev
 
 ## Contributing 🤝
 
-We welcome contributions! Please feel free to submit a Pull Request.
+We welcome contributions! Please feel free to submit an issue or pull request.
 
 ## License 📝
 
